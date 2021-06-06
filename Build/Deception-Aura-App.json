@@ -10,7 +10,6 @@
 "backgroundUrl": "Deception-Aura-App.jpg",
 "splashScreenStyle": "Light",
 "backgroundColor": "#FFFFFF",
-"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.8f1"
